@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="populate_database">
+   "Saving data to a database is ideal for repeating or structured data, such as contact information.
+        This class assumes that you are familiar with SQL databases in general and helps you get started with
+        SQLite databases on Android.The APIs you'll need to use a database on Android are available in the
+        android.database.sqlite package."
+    </string>
+    <string name="hint_product_name">
+    Enter Product Name
+    </string>>
+    <string name="hint_product_quantity">
+    Enter Product Quantity
+    </string>>
+    <string name="hint_product_price">
+    Enter Product Price
+    </string>
+    <string name="hint_product_description">
+    Enter Product Description
+    </string>
+    <string name="add_image">
+   Add Image
+    </string>>
+    <string name="insert">
+  Insert product into database
+    </string>
+    <string name="product_name">
+  product name
+    </string>
+    <string name="hint_supplier_name">
+    Enter Supplier Name
+    </string>
+    <string name="hint_supplier_email_address">
+    Enter Supplier Email Address
+    </string>
+    <string name="image">
+    Product Image
+    </string>
+     <string name="prod_desc">
+    Product Description
+    </string>
+    <string name="quan">
+        Quantity
+        </string>
+     <string name="supplier_name">
+      Supplier Name
+    </string>
+    <string name="track_sale">
+     Track Sale
+    </string>
+     <string name="receive_shipment">
+    Receive Shipment
+    </string>
+    <string name="Order_Item">
+   Order Item
+    </string>
+    <string name="delete_item">
+Delete Item
+    </string>
+   <string name="supplier_email">
+Supplier Email
+    </string>
+
+</resources>
